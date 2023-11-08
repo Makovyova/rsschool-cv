@@ -29,4 +29,4 @@ Rs-school/[CV project](https://github.com/Makovyova/rsschool-cv)
     *[Operating Systems](https://stepik.org/cert/1559639?lang=en)
 8. English language: A2(pre-intermediate)
 9. Photo:  
-<image src="/rs_scool/myPhoto.jpg">
+<image src="/rs_school/myPhoto.jpg" >
