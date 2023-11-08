@@ -2,6 +2,7 @@
 2. Contact info:  
     *makov.kate@gmail.com  
     *+79062537274  
+    *e0586  
 3. I'm a third year student at the St.Petersburg State University of Civil Aviation. Studying applied math means also coding formulas and creating math models of various processes.
 4. Skills:   
     *C++  
