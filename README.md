@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Makovyova.github.io/rsschool-cv/
